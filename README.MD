@@ -1,4 +1,4 @@
-# 🧠 Skygea MCP Agent
+# 🧠 mcp-agent-starter-kit
 
 Your first MCP-powered AI agent built with Node.js.
 
